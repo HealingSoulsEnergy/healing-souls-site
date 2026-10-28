@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://healingsoulsenergy.github.io/healing-souls-site/sitemap.xml
+Sitemap: https://www.healingsoulsmt.com/sitemap.xml
